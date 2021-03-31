@@ -1,17 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>ex2no8</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
+package ex2no8;
+
+public class ex2no8 {//57p
+	  public static void main(String[] args) {
+		System.out.println('\'');             
+		System.out.println("abc\t123\b456");      
+		System.out.println('\n');
+		System.out.println("\"Hello\"");
+		System.out.println("c:\\");
+		  
+		  
+	 }
+
+}
